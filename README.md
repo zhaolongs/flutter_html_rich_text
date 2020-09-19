@@ -4,17 +4,14 @@
 
 ## Getting Started
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
 
 
 目前在西瓜视频上免费刊登 Flutter 系列教程，每日更新，欢迎关注接收提醒[点击查看提示](https://www.ixigua.com/6872871296074514947)  [各种系列的教程](https://www.ixigua.com/home/3662978423/pseries/?preActiveKey=home)
+
+
+***
+
 
 2020.09.12 开发笔记
 * [iOS中加载Flutter中的图片](https://blog.csdn.net/zl18603543572/article/details/108542749)
